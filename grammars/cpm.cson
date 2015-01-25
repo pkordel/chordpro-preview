@@ -1,0 +1,8 @@
+scopeName: 'source.cpm'
+name: 'ChordPro'
+fileTypes: [
+  'chordpro',
+  'chopro',
+  'pro',
+  'cpm'
+]

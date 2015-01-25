@@ -1,15 +1,15 @@
 {
   "name": "chordpro",
   "main": "./lib/chordpro",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "0.0.1",
+  "description": "Preview and snippets for chordpro files",
   "activationCommands": {
     "atom-workspace": "chordpro:toggle"
   },
   "repository": "https://github.com/pkordel/chordpro",
   "license": "MIT",
   "engines": {
-    "atom": ">0.50.0"
+    "atom": "*"
   },
   "dependencies": {
   }

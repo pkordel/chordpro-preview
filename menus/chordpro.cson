@@ -2,19 +2,20 @@
 'context-menu':
   'atom-text-editor': [
     {
-      'label': 'Toggle chordpro'
-      'command': 'chordpro:toggle'
+      label: 'Preview'
+      command: 'chordpro:toggle'
     }
   ]
-'menu': [
+
+menu: [
   {
-    'label': 'Packages'
-    'submenu': [
-      'label': 'chordpro'
-      'submenu': [
+    label: 'Packages'
+    submenu: [
+      label: 'Chordpro Preview'
+      submenu: [
         {
-          'label': 'Toggle'
-          'command': 'chordpro:toggle'
+          label: 'Toggle Preview'
+          command: 'chordpro:toggle'
         }
       ]
     ]
