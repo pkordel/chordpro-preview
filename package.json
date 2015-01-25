@@ -6,7 +6,7 @@
   "activationCommands": {
     "atom-workspace": "chordpro:toggle"
   },
-  "repository": "https://github.com/atom/chordpro",
+  "repository": "https://github.com/pkordel/chordpro",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
