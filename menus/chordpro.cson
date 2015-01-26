@@ -2,7 +2,7 @@
 'context-menu':
   'atom-text-editor': [
     {
-      label: 'Preview'
+      label: 'Chordpro Preview'
       command: 'chordpro:toggle'
     }
   ]

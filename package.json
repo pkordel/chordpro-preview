@@ -1,12 +1,12 @@
 {
-  "name": "chordpro",
+  "name": "chordpro-preview",
   "main": "./lib/chordpro",
   "version": "0.0.1",
-  "description": "Preview and snippets for chordpro files",
+  "description": "Preview chordpro files",
   "activationCommands": {
     "atom-workspace": "chordpro:toggle"
   },
-  "repository": "https://github.com/pkordel/chordpro",
+  "repository": "https://github.com/pkordel/chordpro-preview",
   "license": "MIT",
   "engines": {
     "atom": "*"
